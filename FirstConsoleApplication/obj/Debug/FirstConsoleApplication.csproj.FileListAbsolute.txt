@@ -1,0 +1,14 @@
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\FirstConsoleApplication.exe.config
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\FirstDatabase.mdf
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\FirstDatabase_log.ldf
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\FirstConsoleApplication.exe
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\FirstConsoleApplication.pdb
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\Model.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\Model.pdb
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\obj\Debug\FirstConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\obj\Debug\FirstConsoleApplication.exe
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\FirstConsoleApplication\obj\Debug\FirstConsoleApplication.pdb

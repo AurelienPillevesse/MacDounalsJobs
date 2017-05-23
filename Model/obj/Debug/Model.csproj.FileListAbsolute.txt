@@ -1,0 +1,14 @@
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\FirstDatabase.mdf
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\FirstDatabase_log.ldf
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\Model.dll.config
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\Model.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\Model.pdb
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\EntityFramework.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\EntityFramework.xml
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\obj\Debug\Model.dll
+C:\Travail\MacDounalds.PierrePic.AurelienPillevesse\Model\obj\Debug\Model.pdb
